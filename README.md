@@ -4,7 +4,7 @@
 1/2   1./2   1/2.   1./2.  = ?
       
 2)       
-public abstract class Test implements Runnable { 
+public abstract class Test implements Runnable {        
     private Object lock = new Object(); 
  
     public void lock() { 
